@@ -132,6 +132,18 @@ rss:
       url: "https://finance.yahoo.com/news/rssindex"
       enabled: false                  # 禁用
 
+
+    - id: "chuhaiwang"
+      name: "出海网络"
+      url: "https://www.chwang.com/amazon/news"
+      #enabled: false                  # 禁用
+
+    - id: "cifnews"
+      name: "雨果跨境"
+      url: "https://www.cifnews.com/tag/topamazon-article"
+      #enabled: false                  # 禁用
+
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
